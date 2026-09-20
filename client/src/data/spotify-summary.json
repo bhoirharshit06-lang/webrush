@@ -1,0 +1,699 @@
+{
+  "source": "spotify_history.csv",
+  "records": 149860,
+  "firstDate": "2013-07-08",
+  "lastDate": "2024-12-15",
+  "years": 12,
+  "uniqueArtists": 4113,
+  "uniqueTracks": 13839,
+  "uniqueAlbums": 7948,
+  "playedHours": 5341.5,
+  "skipped": 7869,
+  "skipRate": 5.3,
+  "peakHour": {
+    "hour": 0,
+    "plays": 10884
+  },
+  "peakMonth": {
+    "month": "2017-09",
+    "plays": 5176
+  },
+  "peakYear": {
+    "year": "2017",
+    "plays": 26320
+  },
+  "topArtists": [
+    {
+      "name": "The Beatles",
+      "plays": 13621,
+      "hours": 336.2,
+      "tracks": 470
+    },
+    {
+      "name": "The Killers",
+      "plays": 6878,
+      "hours": 294.3,
+      "tracks": 155
+    },
+    {
+      "name": "John Mayer",
+      "plays": 4855,
+      "hours": 201.4,
+      "tracks": 115
+    },
+    {
+      "name": "Bob Dylan",
+      "plays": 3814,
+      "hours": 158.2,
+      "tracks": 100
+    },
+    {
+      "name": "Paul McCartney",
+      "plays": 2697,
+      "hours": 99.3,
+      "tracks": 155
+    },
+    {
+      "name": "Led Zeppelin",
+      "plays": 2482,
+      "hours": 69.0,
+      "tracks": 94
+    },
+    {
+      "name": "Johnny Cash",
+      "plays": 2478,
+      "hours": 66.6,
+      "tracks": 85
+    },
+    {
+      "name": "The Rolling Stones",
+      "plays": 2390,
+      "hours": 85.5,
+      "tracks": 111
+    },
+    {
+      "name": "Radiohead",
+      "plays": 2305,
+      "hours": 60.2,
+      "tracks": 72
+    },
+    {
+      "name": "The Black Keys",
+      "plays": 2231,
+      "hours": 53.3,
+      "tracks": 107
+    },
+    {
+      "name": "Imagine Dragons",
+      "plays": 2116,
+      "hours": 67.3,
+      "tracks": 74
+    },
+    {
+      "name": "Pink Floyd",
+      "plays": 2105,
+      "hours": 72.4,
+      "tracks": 60
+    }
+  ],
+  "topTracks": [
+    {
+      "name": "Ode To The Mets",
+      "plays": 207
+    },
+    {
+      "name": "In the Blood",
+      "plays": 181
+    },
+    {
+      "name": "Dying Breed",
+      "plays": 166
+    },
+    {
+      "name": "Caution",
+      "plays": 164
+    },
+    {
+      "name": "19 Dias y 500 Noches - En Directo",
+      "plays": 148
+    },
+    {
+      "name": "For What It's Worth",
+      "plays": 146
+    },
+    {
+      "name": "All These Things That I've Done",
+      "plays": 142
+    },
+    {
+      "name": "Concerning Hobbits",
+      "plays": 142
+    },
+    {
+      "name": "Come Together - Remastered 2009",
+      "plays": 137
+    },
+    {
+      "name": "The Boxer",
+      "plays": 135
+    },
+    {
+      "name": "Yesterday - Remastered 2009",
+      "plays": 134
+    },
+    {
+      "name": "Crucify Your Mind",
+      "plays": 131
+    }
+  ],
+  "topAlbums": [
+    {
+      "name": "The Beatles",
+      "plays": 2063
+    },
+    {
+      "name": "Past Masters",
+      "plays": 1672
+    },
+    {
+      "name": "Abbey Road",
+      "plays": 1429
+    },
+    {
+      "name": "The Wall",
+      "plays": 1241
+    },
+    {
+      "name": "Revolver",
+      "plays": 1038
+    },
+    {
+      "name": "Help!",
+      "plays": 979
+    },
+    {
+      "name": "At Folsom Prison",
+      "plays": 918
+    },
+    {
+      "name": "Sgt. Pepper's Lonely Hearts Club Band",
+      "plays": 910
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2023-01",
+      "plays": 1073,
+      "minutes": 2938,
+      "artists": 481
+    },
+    {
+      "month": "2023-02",
+      "plays": 935,
+      "minutes": 2634,
+      "artists": 440
+    },
+    {
+      "month": "2023-03",
+      "plays": 1018,
+      "minutes": 3362,
+      "artists": 334
+    },
+    {
+      "month": "2023-04",
+      "plays": 1045,
+      "minutes": 2843,
+      "artists": 271
+    },
+    {
+      "month": "2023-05",
+      "plays": 1400,
+      "minutes": 3078,
+      "artists": 379
+    },
+    {
+      "month": "2023-06",
+      "plays": 846,
+      "minutes": 1608,
+      "artists": 319
+    },
+    {
+      "month": "2023-07",
+      "plays": 865,
+      "minutes": 2597,
+      "artists": 371
+    },
+    {
+      "month": "2023-08",
+      "plays": 854,
+      "minutes": 2654,
+      "artists": 253
+    },
+    {
+      "month": "2023-09",
+      "plays": 650,
+      "minutes": 2042,
+      "artists": 259
+    },
+    {
+      "month": "2023-10",
+      "plays": 777,
+      "minutes": 2458,
+      "artists": 148
+    },
+    {
+      "month": "2023-11",
+      "plays": 785,
+      "minutes": 2435,
+      "artists": 292
+    },
+    {
+      "month": "2023-12",
+      "plays": 775,
+      "minutes": 2255,
+      "artists": 259
+    },
+    {
+      "month": "2024-01",
+      "plays": 1449,
+      "minutes": 4797,
+      "artists": 430
+    },
+    {
+      "month": "2024-02",
+      "plays": 924,
+      "minutes": 3218,
+      "artists": 217
+    },
+    {
+      "month": "2024-03",
+      "plays": 700,
+      "minutes": 2502,
+      "artists": 202
+    },
+    {
+      "month": "2024-04",
+      "plays": 619,
+      "minutes": 1768,
+      "artists": 230
+    },
+    {
+      "month": "2024-05",
+      "plays": 569,
+      "minutes": 1516,
+      "artists": 208
+    },
+    {
+      "month": "2024-06",
+      "plays": 524,
+      "minutes": 1732,
+      "artists": 224
+    },
+    {
+      "month": "2024-07",
+      "plays": 318,
+      "minutes": 885,
+      "artists": 118
+    },
+    {
+      "month": "2024-08",
+      "plays": 932,
+      "minutes": 2683,
+      "artists": 256
+    },
+    {
+      "month": "2024-09",
+      "plays": 962,
+      "minutes": 2785,
+      "artists": 287
+    },
+    {
+      "month": "2024-10",
+      "plays": 1300,
+      "minutes": 3642,
+      "artists": 300
+    },
+    {
+      "month": "2024-11",
+      "plays": 1425,
+      "minutes": 3232,
+      "artists": 414
+    },
+    {
+      "month": "2024-12",
+      "plays": 148,
+      "minutes": 202,
+      "artists": 89
+    }
+  ],
+  "weekday": [
+    {
+      "day": "Mon",
+      "plays": 21031
+    },
+    {
+      "day": "Tue",
+      "plays": 20705
+    },
+    {
+      "day": "Wed",
+      "plays": 23406
+    },
+    {
+      "day": "Thu",
+      "plays": 21401
+    },
+    {
+      "day": "Fri",
+      "plays": 25646
+    },
+    {
+      "day": "Sat",
+      "plays": 19397
+    },
+    {
+      "day": "Sun",
+      "plays": 18274
+    }
+  ],
+  "hourly": [
+    {
+      "hour": 0,
+      "plays": 10884
+    },
+    {
+      "hour": 1,
+      "plays": 9395
+    },
+    {
+      "hour": 2,
+      "plays": 9029
+    },
+    {
+      "hour": 3,
+      "plays": 8550
+    },
+    {
+      "hour": 4,
+      "plays": 6355
+    },
+    {
+      "hour": 5,
+      "plays": 7164
+    },
+    {
+      "hour": 6,
+      "plays": 7369
+    },
+    {
+      "hour": 7,
+      "plays": 4412
+    },
+    {
+      "hour": 8,
+      "plays": 2312
+    },
+    {
+      "hour": 9,
+      "plays": 1695
+    },
+    {
+      "hour": 10,
+      "plays": 1207
+    },
+    {
+      "hour": 11,
+      "plays": 903
+    },
+    {
+      "hour": 12,
+      "plays": 724
+    },
+    {
+      "hour": 13,
+      "plays": 1658
+    },
+    {
+      "hour": 14,
+      "plays": 2759
+    },
+    {
+      "hour": 15,
+      "plays": 3725
+    },
+    {
+      "hour": 16,
+      "plays": 6737
+    },
+    {
+      "hour": 17,
+      "plays": 9194
+    },
+    {
+      "hour": 18,
+      "plays": 8945
+    },
+    {
+      "hour": 19,
+      "plays": 8165
+    },
+    {
+      "hour": 20,
+      "plays": 10494
+    },
+    {
+      "hour": 21,
+      "plays": 8953
+    },
+    {
+      "hour": 22,
+      "plays": 8715
+    },
+    {
+      "hour": 23,
+      "plays": 10516
+    }
+  ],
+  "recent": [
+    {
+      "ts": "2024-12-15 18:56:58",
+      "artist": "Nickelback",
+      "track": "If Everyone Cared",
+      "album": "All the Right Reasons",
+      "ms": 72536,
+      "skipped": false
+    },
+    {
+      "ts": "2024-12-15 18:59:16",
+      "artist": "Creedence Clearwater Revival",
+      "track": "Sweet Hitch-Hiker",
+      "album": "Mardi Gras",
+      "ms": 136826,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 21:04:50",
+      "artist": "John Mayer",
+      "track": "I Will Be Found (Lost At Sea)",
+      "album": "Paradise Valley",
+      "ms": 241346,
+      "skipped": false
+    },
+    {
+      "ts": "2024-12-15 21:05:54",
+      "artist": "Pink Floyd",
+      "track": "One of My Turns",
+      "album": "The Wall",
+      "ms": 37225,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 22:51:33",
+      "artist": "Pink Floyd",
+      "track": "One of My Turns",
+      "album": "The Wall",
+      "ms": 180592,
+      "skipped": false
+    },
+    {
+      "ts": "2024-12-15 22:55:13",
+      "artist": "The Fray",
+      "track": "Our Last Days",
+      "album": "Helios",
+      "ms": 219600,
+      "skipped": false
+    },
+    {
+      "ts": "2024-12-15 22:57:00",
+      "artist": "Liam Gallagher",
+      "track": "Sad Song - Acoustic",
+      "album": "Acoustic Sessions",
+      "ms": 105659,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 22:57:01",
+      "artist": "Ed Sheeran",
+      "track": "Castle on the Hill",
+      "album": "÷",
+      "ms": 1228,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 22:57:03",
+      "artist": "The Beatles",
+      "track": "Hello, Goodbye - Remastered 2009",
+      "album": "Magical Mystery Tour",
+      "ms": 1219,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 22:57:04",
+      "artist": "Giacomo Puccini",
+      "track": "Puccini: La bohème, Act I: Che gelida manina",
+      "album": "Pavarotti Forever",
+      "ms": 1188,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 22:57:06",
+      "artist": "John Mayer",
+      "track": "Emoji of a Wave",
+      "album": "The Search for Everything",
+      "ms": 1527,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 23:00:10",
+      "artist": "Kings of Leon",
+      "track": "17",
+      "album": "Only By The Night",
+      "ms": 185373,
+      "skipped": false
+    },
+    {
+      "ts": "2024-12-15 23:05:19",
+      "artist": "James Bay",
+      "track": "Get Out While You Can",
+      "album": "Chaos And The Calm",
+      "ms": 280293,
+      "skipped": false
+    },
+    {
+      "ts": "2024-12-15 23:05:45",
+      "artist": "John Williams",
+      "track": "Reunion of Friends",
+      "album": "Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack",
+      "ms": 24162,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 23:05:49",
+      "artist": "Bruno Mars",
+      "track": "Young Girls",
+      "album": "Unorthodox Jukebox",
+      "ms": 4368,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 23:05:50",
+      "artist": "Radiohead",
+      "track": "The National Anthem",
+      "album": "Kid A",
+      "ms": 1366,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 23:05:52",
+      "artist": "Xoel López",
+      "track": "Tierra",
+      "album": "Atlántico",
+      "ms": 1612,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 23:06:03",
+      "artist": "Diego Torres",
+      "track": "Color Esperanza",
+      "album": "Mis Favoritas",
+      "ms": 10672,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 23:06:05",
+      "artist": "Led Zeppelin",
+      "track": "Black Country Woman - Remaster",
+      "album": "Physical Graffiti",
+      "ms": 1962,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 23:06:07",
+      "artist": "The Chainsmokers",
+      "track": "Closer",
+      "album": "Closer",
+      "ms": 2103,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 23:06:09",
+      "artist": "Elvis Presley",
+      "track": "Love Me Tender - From the 20th Century-Fox CinemaScope Production, \"Love Me Tender\"",
+      "album": "Elvis' Golden Records",
+      "ms": 1869,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 23:06:10",
+      "artist": "Paul McCartney",
+      "track": "Who Cares",
+      "album": "Egypt Station",
+      "ms": 1342,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 23:06:15",
+      "artist": "Willie Nelson",
+      "track": "I'm the Only Hell My Mama Ever Raised",
+      "album": "First Rose of Spring",
+      "ms": 4216,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 23:06:16",
+      "artist": "David Bowie",
+      "track": "Eight Line Poem - 2015 Remaster",
+      "album": "Hunky Dory",
+      "ms": 1375,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 23:06:18",
+      "artist": "The Rolling Stones",
+      "track": "Wild Horses - 2009 Mix",
+      "album": "Sticky Fingers",
+      "ms": 1562,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 23:06:19",
+      "artist": "John Mayer",
+      "track": "On The Way Home",
+      "album": "Paradise Valley",
+      "ms": 1247,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 23:06:21",
+      "artist": "The Beatles",
+      "track": "Magical Mystery Tour - Remastered 2009",
+      "album": "Magical Mystery Tour",
+      "ms": 1515,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 23:06:22",
+      "artist": "John Mayer",
+      "track": "Stop This Train - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "album": "Where the Light Is: John Mayer Live In Los Angeles",
+      "ms": 1283,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 23:06:23",
+      "artist": "John Mayer",
+      "track": "I Don't Trust Myself (With Loving You)",
+      "album": "Continuum",
+      "ms": 1306,
+      "skipped": true
+    },
+    {
+      "ts": "2024-12-15 23:06:25",
+      "artist": "The Beach Boys",
+      "track": "God Only Knows - Mono",
+      "album": "Pet Sounds",
+      "ms": 1893,
+      "skipped": true
+    }
+  ]
+}

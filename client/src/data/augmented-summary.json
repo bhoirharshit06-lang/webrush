@@ -1,0 +1,317 @@
+{
+  "source": "Augmented_IndiaTransactMultiFacet2024.json",
+  "records": 10267,
+  "validIndiaMerchantLocations": 110,
+  "regionCount": 8,
+  "totalAmount": 553280.67,
+  "fraudFlagged": 67,
+  "topCategories": [
+    {
+      "name": "travel",
+      "transactions": 43,
+      "amount": 183405.22
+    },
+    {
+      "name": "other",
+      "transactions": 22,
+      "amount": 82581.23
+    },
+    {
+      "name": "entertainment",
+      "transactions": 19,
+      "amount": 161227.76
+    },
+    {
+      "name": "fitness_and_medical",
+      "transactions": 16,
+      "amount": 118765.66
+    },
+    {
+      "name": "online_shopping",
+      "transactions": 10,
+      "amount": 7300.8
+    }
+  ],
+  "places": [
+    {
+      "name": "Arunachal Pradesh",
+      "city": "Lucknow",
+      "transactions": 19,
+      "spend": 134132.32,
+      "topCategory": "fitness_and_medical",
+      "lat": 19.3229,
+      "lon": 83.6829,
+      "x": "27%",
+      "y": "67%",
+      "color": "#8ff2de",
+      "image": "/manus-storage/state-arunachal_9371d33e.jpg"
+    },
+    {
+      "name": "Odisha",
+      "city": "Bellary",
+      "transactions": 19,
+      "spend": 43471.99,
+      "topCategory": "travel",
+      "lat": 10.475,
+      "lon": 81.2043,
+      "x": "47%",
+      "y": "48%",
+      "color": "#bda8ff",
+      "image": "/manus-storage/state-odisha_702769c5.jpg"
+    },
+    {
+      "name": "Gujarat",
+      "city": "Warangal",
+      "transactions": 15,
+      "spend": 66395.73,
+      "topCategory": "travel",
+      "lat": 17.3988,
+      "lon": 82.1206,
+      "x": "70%",
+      "y": "57%",
+      "color": "#ffb78c",
+      "image": "/manus-storage/state-gujarat_4b61b7d2.jpg"
+    },
+    {
+      "name": "Unknown region",
+      "city": "Sikar",
+      "transactions": 14,
+      "spend": 12012.68,
+      "topCategory": "online_shopping",
+      "lat": 16.5047,
+      "lon": 78.562,
+      "x": "58%",
+      "y": "30%",
+      "color": "#d1e99b",
+      "image": "/manus-storage/state-assam_23195fb7.jpg"
+    },
+    {
+      "name": "Chhattisgarh",
+      "city": "Bharatpur",
+      "transactions": 13,
+      "spend": 117962.0,
+      "topCategory": "entertainment",
+      "lat": 27.8385,
+      "lon": 93.9502,
+      "x": "35%",
+      "y": "30%",
+      "color": "#f2b8db",
+      "image": "/manus-storage/state-chhattisgarh_d71af171.jpg"
+    },
+    {
+      "name": "Uttar Pradesh",
+      "city": "Gandhidham",
+      "transactions": 7,
+      "spend": 32054.4,
+      "topCategory": "travel",
+      "lat": 23.7483,
+      "lon": 74.1897,
+      "x": "75%",
+      "y": "33%",
+      "color": "#9fc8ff",
+      "image": "/manus-storage/state-uttar-pradesh_5c8fe05f.jpg"
+    },
+    {
+      "name": "Maharashtra",
+      "city": "Mumbai",
+      "transactions": 0,
+      "spend": 0,
+      "topCategory": "visual context",
+      "lat": 19.076,
+      "lon": 72.8777,
+      "x": "44%",
+      "y": "68%",
+      "color": "#ff9f7b",
+      "image": "/manus-storage/state-maharashtra_99acc08c.jpg",
+      "contextOnly": true
+    },
+    {
+      "name": "Goa",
+      "city": "Panaji",
+      "transactions": 0,
+      "spend": 0,
+      "topCategory": "visual context",
+      "lat": 15.4909,
+      "lon": 73.8278,
+      "x": "35%",
+      "y": "79%",
+      "color": "#f1b7da",
+      "image": "/manus-storage/state-goa_307608d3.jpg",
+      "contextOnly": true
+    }
+  ],
+  "recent": [
+    {
+      "date": "7/5/2023 2:11",
+      "city": "Bellary",
+      "state": "Odisha",
+      "category": "travel",
+      "amount": 3695.41
+    },
+    {
+      "date": "7/5/2023 2:11",
+      "city": "Bellary",
+      "state": "Odisha",
+      "category": "travel",
+      "amount": 3695.41
+    },
+    {
+      "date": "7/5/2023 2:11",
+      "city": "Bellary",
+      "state": "Odisha",
+      "category": "travel",
+      "amount": 3695.41
+    },
+    {
+      "date": "7/5/2023 2:11",
+      "city": "Bellary",
+      "state": "Odisha",
+      "category": "travel",
+      "amount": 3695.41
+    },
+    {
+      "date": "7/5/2023 2:11",
+      "city": "Bellary",
+      "state": "Odisha",
+      "category": "travel",
+      "amount": 3695.41
+    },
+    {
+      "date": "7/5/2023 2:11",
+      "city": "Bellary",
+      "state": "Odisha",
+      "category": "travel",
+      "amount": 3695.41
+    },
+    {
+      "date": "7/5/2023 2:11",
+      "city": "Bellary",
+      "state": "Odisha",
+      "category": "travel",
+      "amount": 3695.41
+    },
+    {
+      "date": "7/5/2023 2:11",
+      "city": "Bellary",
+      "state": "Odisha",
+      "category": "travel",
+      "amount": 3695.41
+    },
+    {
+      "date": "7/5/2023 2:11",
+      "city": "Bellary",
+      "state": "Odisha",
+      "category": "travel",
+      "amount": 3695.41
+    },
+    {
+      "date": "7/5/2023 2:11",
+      "city": "Bellary",
+      "state": "Odisha",
+      "category": "travel",
+      "amount": 3695.41
+    },
+    {
+      "date": "7/5/2023 2:11",
+      "city": "Bellary",
+      "state": "Odisha",
+      "category": "travel",
+      "amount": 3695.41
+    },
+    {
+      "date": "7/4/2023 16:26",
+      "city": "Sikar",
+      "state": "Unknown region",
+      "category": "online_shopping",
+      "amount": 730.08
+    },
+    {
+      "date": "7/4/2023 16:26",
+      "city": "Sikar",
+      "state": "Unknown region",
+      "category": "online_shopping",
+      "amount": 730.08
+    },
+    {
+      "date": "7/4/2023 16:26",
+      "city": "Sikar",
+      "state": "Unknown region",
+      "category": "online_shopping",
+      "amount": 730.08
+    },
+    {
+      "date": "7/4/2023 16:26",
+      "city": "Sikar",
+      "state": "Unknown region",
+      "category": "online_shopping",
+      "amount": 730.08
+    },
+    {
+      "date": "7/4/2023 16:26",
+      "city": "Sikar",
+      "state": "Unknown region",
+      "category": "online_shopping",
+      "amount": 730.08
+    },
+    {
+      "date": "7/4/2023 16:26",
+      "city": "Sikar",
+      "state": "Unknown region",
+      "category": "online_shopping",
+      "amount": 730.08
+    },
+    {
+      "date": "7/4/2023 16:26",
+      "city": "Sikar",
+      "state": "Unknown region",
+      "category": "online_shopping",
+      "amount": 730.08
+    },
+    {
+      "date": "7/4/2023 16:26",
+      "city": "Sikar",
+      "state": "Unknown region",
+      "category": "online_shopping",
+      "amount": 730.08
+    },
+    {
+      "date": "7/4/2023 16:26",
+      "city": "Sikar",
+      "state": "Unknown region",
+      "category": "online_shopping",
+      "amount": 730.08
+    },
+    {
+      "date": "7/4/2023 16:26",
+      "city": "Sikar",
+      "state": "Unknown region",
+      "category": "online_shopping",
+      "amount": 730.08
+    },
+    {
+      "date": "7/18/2023 22:40",
+      "city": "Jhansi",
+      "state": "Mizoram",
+      "category": "other",
+      "amount": 6584.97
+    },
+    {
+      "date": "7/18/2023 22:40",
+      "city": "Jhansi",
+      "state": "Mizoram",
+      "category": "other",
+      "amount": 6584.97
+    },
+    {
+      "date": "7/18/2023 22:40",
+      "city": "Jhansi",
+      "state": "Mizoram",
+      "category": "other",
+      "amount": 6584.97
+    }
+  ],
+  "visualContextRegions": [
+    "Maharashtra",
+    "Goa"
+  ]
+}

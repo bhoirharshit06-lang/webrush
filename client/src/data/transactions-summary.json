@@ -1,0 +1,708 @@
+{
+  "source": "DailyHouseholdTransactions.csv",
+  "records": 2461,
+  "firstDate": "2015-01-01",
+  "lastDate": "2018-09-20",
+  "totalExpense": 1957390.53,
+  "totalIncome": 3042397.35,
+  "transfers": 1770780.9,
+  "currency": "INR",
+  "expenseRate": 64.3,
+  "categoryTop": [
+    {
+      "name": "Food",
+      "transactions": 907,
+      "spend": 96403.1
+    },
+    {
+      "name": "Transportation",
+      "transactions": 307,
+      "spend": 169053.78
+    },
+    {
+      "name": "Household",
+      "transactions": 176,
+      "spend": 161645.58
+    },
+    {
+      "name": "subscription",
+      "transactions": 143,
+      "spend": 114587.91
+    },
+    {
+      "name": "Other",
+      "transactions": 126,
+      "spend": 87025.28
+    },
+    {
+      "name": "Investment",
+      "transactions": 103,
+      "spend": 271858.0
+    },
+    {
+      "name": "Health",
+      "transactions": 94,
+      "spend": 66252.75
+    },
+    {
+      "name": "Family",
+      "transactions": 71,
+      "spend": 78582.2
+    },
+    {
+      "name": "Apparel",
+      "transactions": 47,
+      "spend": 25373.82
+    },
+    {
+      "name": "Recurring Deposit",
+      "transactions": 47,
+      "spend": 22000.0
+    }
+  ],
+  "places": [
+    {
+      "name": "Neighborhood",
+      "transactions": 821,
+      "spend": 311470.7
+    },
+    {
+      "name": "Current Residence",
+      "transactions": 431,
+      "spend": 40889.55
+    },
+    {
+      "name": "City Routes",
+      "transactions": 168,
+      "spend": 227954.63
+    },
+    {
+      "name": "Permanent Residence",
+      "transactions": 126,
+      "spend": 34378.0
+    },
+    {
+      "name": "Workplace",
+      "transactions": 63,
+      "spend": 2894.0
+    },
+    {
+      "name": "Place 0",
+      "transactions": 55,
+      "spend": 1585.0
+    },
+    {
+      "name": "Place 2 Station",
+      "transactions": 1,
+      "spend": 50.0
+    }
+  ],
+  "merchants": [
+    {
+      "name": "milk 1lit",
+      "transactions": 67
+    },
+    {
+      "name": "From workplace",
+      "transactions": 43
+    },
+    {
+      "name": "Half lit milk",
+      "transactions": 31
+    },
+    {
+      "name": "1 lit",
+      "transactions": 26
+    },
+    {
+      "name": "Supermart",
+      "transactions": 25
+    },
+    {
+      "name": "Catering Service",
+      "transactions": 22
+    },
+    {
+      "name": "2 Current Residence to Place 0",
+      "transactions": 19
+    },
+    {
+      "name": "Mobile Service Provider recharge wfh",
+      "transactions": 19
+    },
+    {
+      "name": "tea",
+      "transactions": 18
+    },
+    {
+      "name": "6 eggs",
+      "transactions": 16
+    },
+    {
+      "name": "2 Place 0 to Current Residence",
+      "transactions": 16
+    },
+    {
+      "name": "within city",
+      "transactions": 15
+    },
+    {
+      "name": "milk half shakti",
+      "transactions": 15
+    },
+    {
+      "name": "Data booster pack",
+      "transactions": 14
+    },
+    {
+      "name": "chocobar",
+      "transactions": 13
+    },
+    {
+      "name": "Current Residence to Place 0",
+      "transactions": 13
+    },
+    {
+      "name": "interest paid",
+      "transactions": 12
+    },
+    {
+      "name": "Permanent Residence - Tata Play recharge",
+      "transactions": 11
+    }
+  ],
+  "modes": [
+    {
+      "name": "Saving Bank account 1",
+      "transactions": 1223
+    },
+    {
+      "name": "Cash",
+      "transactions": 1046
+    },
+    {
+      "name": "Credit Card",
+      "transactions": 162
+    },
+    {
+      "name": "Equity Mutual Fund B",
+      "transactions": 11
+    },
+    {
+      "name": "Share Market Trading",
+      "transactions": 5
+    },
+    {
+      "name": "Saving Bank account 2",
+      "transactions": 5
+    },
+    {
+      "name": "Recurring Deposit",
+      "transactions": 3
+    },
+    {
+      "name": "Debit Card",
+      "transactions": 2
+    },
+    {
+      "name": "Equity Mutual Fund C",
+      "transactions": 1
+    },
+    {
+      "name": "Equity Mutual Fund A",
+      "transactions": 1
+    },
+    {
+      "name": "Equity Mutual Fund D",
+      "transactions": 1
+    },
+    {
+      "name": "Fixed Deposit",
+      "transactions": 1
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2016-10",
+      "expense": 32138.2,
+      "income": 56647.0
+    },
+    {
+      "month": "2016-11",
+      "expense": 70175.0,
+      "income": 58096.0
+    },
+    {
+      "month": "2016-12",
+      "expense": 74916.6,
+      "income": 56590.0
+    },
+    {
+      "month": "2017-01",
+      "expense": 117797.42,
+      "income": 63101.0
+    },
+    {
+      "month": "2017-02",
+      "expense": 43943.35,
+      "income": 56021.0
+    },
+    {
+      "month": "2017-03",
+      "expense": 36502.08,
+      "income": 56686.0
+    },
+    {
+      "month": "2017-04",
+      "expense": 23834.38,
+      "income": 56957.0
+    },
+    {
+      "month": "2017-05",
+      "expense": 43840.1,
+      "income": 56970.0
+    },
+    {
+      "month": "2017-06",
+      "expense": 32293.55,
+      "income": 57827.0
+    },
+    {
+      "month": "2017-07",
+      "expense": 63873.0,
+      "income": 181617.0
+    },
+    {
+      "month": "2017-08",
+      "expense": 101393.7,
+      "income": 123383.0
+    },
+    {
+      "month": "2017-09",
+      "expense": 32419.0,
+      "income": 62373.0
+    },
+    {
+      "month": "2017-10",
+      "expense": 45532.09,
+      "income": 6000.0
+    },
+    {
+      "month": "2017-11",
+      "expense": 64364.0,
+      "income": 143155.0
+    },
+    {
+      "month": "2017-12",
+      "expense": 46805.0,
+      "income": 82321.0
+    },
+    {
+      "month": "2018-01",
+      "expense": 142080.9,
+      "income": 292938.0
+    },
+    {
+      "month": "2018-02",
+      "expense": 26218.0,
+      "income": 64738.0
+    },
+    {
+      "month": "2018-03",
+      "expense": 23396.75,
+      "income": 69343.5
+    },
+    {
+      "month": "2018-04",
+      "expense": 48339.58,
+      "income": 65824.15
+    },
+    {
+      "month": "2018-05",
+      "expense": 40670.0,
+      "income": 69238.0
+    },
+    {
+      "month": "2018-06",
+      "expense": 38161.02,
+      "income": 68551.0
+    },
+    {
+      "month": "2018-07",
+      "expense": 67738.36,
+      "income": 77267.5
+    },
+    {
+      "month": "2018-08",
+      "expense": 21305.65,
+      "income": 71735.75
+    },
+    {
+      "month": "2018-09",
+      "expense": 4724.0,
+      "income": 3500.0
+    }
+  ],
+  "recent": [
+    {
+      "date": "2018-09-20 12:04:08",
+      "category": "Transportation",
+      "subcategory": "Train",
+      "note": "2 Place 5 to Place 0",
+      "amount": 30.0,
+      "direction": "Expense",
+      "mode": "Cash",
+      "place": "Place 0"
+    },
+    {
+      "date": "2018-09-20 12:03:15",
+      "category": "Food",
+      "subcategory": "snacks",
+      "note": "Idli medu Vada mix 2 plates",
+      "amount": 60.0,
+      "direction": "Expense",
+      "mode": "Cash",
+      "place": "Current Residence"
+    },
+    {
+      "date": "2018-09-19 00:00:00",
+      "category": "subscription",
+      "subcategory": "Netflix",
+      "note": "1 month subscription",
+      "amount": 199.0,
+      "direction": "Expense",
+      "mode": "Saving Bank account 1",
+      "place": "Archive"
+    },
+    {
+      "date": "2018-09-17 23:41:17",
+      "category": "subscription",
+      "subcategory": "Mobile Service Provider",
+      "note": "Data booster pack",
+      "amount": 19.0,
+      "direction": "Expense",
+      "mode": "Saving Bank account 1",
+      "place": "Archive"
+    },
+    {
+      "date": "2018-09-16 17:15:08",
+      "category": "Festivals",
+      "subcategory": "Ganesh Pujan",
+      "note": "Ganesh idol",
+      "amount": 251.0,
+      "direction": "Expense",
+      "mode": "Cash",
+      "place": "Archive"
+    },
+    {
+      "date": "2018-09-15 06:34:17",
+      "category": "subscription",
+      "subcategory": "Tata Sky",
+      "note": "Permanent Residence - Tata Play recharge",
+      "amount": 200.0,
+      "direction": "Expense",
+      "mode": "Credit Card",
+      "place": "Permanent Residence"
+    },
+    {
+      "date": "2018-09-14 05:39:17",
+      "category": "Transportation",
+      "subcategory": "auto",
+      "note": "Place 2 station to Permanent Residence",
+      "amount": 50.0,
+      "direction": "Expense",
+      "mode": "Cash",
+      "place": "Permanent Residence"
+    },
+    {
+      "date": "2018-09-13 21:35:15",
+      "category": "Transportation",
+      "subcategory": "Train",
+      "note": "2 Place 0 to Place 3",
+      "amount": 40.0,
+      "direction": "Expense",
+      "mode": "Saving Bank account 1",
+      "place": "Place 0"
+    },
+    {
+      "date": "2018-09-13 21:01:47",
+      "category": "Other",
+      "subcategory": "",
+      "note": "HBR 2 Months subscription",
+      "amount": 83.0,
+      "direction": "Expense",
+      "mode": "Credit Card",
+      "place": "Archive"
+    },
+    {
+      "date": "2018-09-13 21:01:32",
+      "category": "Food",
+      "subcategory": "Grocery",
+      "note": "1kg atta",
+      "amount": 46.0,
+      "direction": "Expense",
+      "mode": "Cash",
+      "place": "Current Residence"
+    },
+    {
+      "date": "2018-09-13 00:00:00",
+      "category": "Small Cap fund 2",
+      "subcategory": "",
+      "note": "",
+      "amount": 5000.0,
+      "direction": "Transfer-Out",
+      "mode": "Saving Bank account 1",
+      "place": "Archive"
+    },
+    {
+      "date": "2018-09-13 00:00:00",
+      "category": "Small cap fund 1",
+      "subcategory": "",
+      "note": "",
+      "amount": 5000.0,
+      "direction": "Transfer-Out",
+      "mode": "Saving Bank account 1",
+      "place": "Archive"
+    },
+    {
+      "date": "2018-09-12 00:00:00",
+      "category": "subscription",
+      "subcategory": "Mobile Service Provider",
+      "note": "Data booster pack",
+      "amount": 667.0,
+      "direction": "Expense",
+      "mode": "Credit Card",
+      "place": "Archive"
+    },
+    {
+      "date": "2018-09-11 00:00:00",
+      "category": "Food",
+      "subcategory": "Lunch",
+      "note": "Home Food Delivery",
+      "amount": 650.0,
+      "direction": "Expense",
+      "mode": "Saving Bank account 1",
+      "place": "Permanent Residence"
+    },
+    {
+      "date": "2018-09-11 00:00:00",
+      "category": "Other",
+      "subcategory": "",
+      "note": "From Family",
+      "amount": 3500.0,
+      "direction": "Income",
+      "mode": "Saving Bank account 1",
+      "place": "Archive"
+    },
+    {
+      "date": "2018-09-11 00:00:00",
+      "category": "Food",
+      "subcategory": "Milk",
+      "note": "Half lit milk",
+      "amount": 36.0,
+      "direction": "Expense",
+      "mode": "Cash",
+      "place": "Current Residence"
+    },
+    {
+      "date": "2018-09-10 00:00:00",
+      "category": "Food",
+      "subcategory": "Milk",
+      "note": "Half lit milk",
+      "amount": 36.0,
+      "direction": "Expense",
+      "mode": "Cash",
+      "place": "Current Residence"
+    },
+    {
+      "date": "2018-09-08 00:00:00",
+      "category": "Family",
+      "subcategory": "Pocket money",
+      "note": "",
+      "amount": 40.0,
+      "direction": "Expense",
+      "mode": "Cash",
+      "place": "Archive"
+    },
+    {
+      "date": "2018-09-07 00:00:00",
+      "category": "Food",
+      "subcategory": "Milk",
+      "note": "Half lit milk",
+      "amount": 37.0,
+      "direction": "Expense",
+      "mode": "Cash",
+      "place": "Current Residence"
+    },
+    {
+      "date": "2018-09-07 00:00:00",
+      "category": "Equity Mutual Fund E",
+      "subcategory": "",
+      "note": "",
+      "amount": 1000.0,
+      "direction": "Transfer-Out",
+      "mode": "Saving Bank account 1",
+      "place": "Archive"
+    },
+    {
+      "date": "2018-09-06 00:00:00",
+      "category": "Food",
+      "subcategory": "snacks",
+      "note": "Amul butter",
+      "amount": 55.0,
+      "direction": "Expense",
+      "mode": "Cash",
+      "place": "Current Residence"
+    },
+    {
+      "date": "2018-09-05 00:00:00",
+      "category": "Apparel",
+      "subcategory": "Laundry",
+      "note": "11 clothes ironing",
+      "amount": 77.0,
+      "direction": "Expense",
+      "mode": "Cash",
+      "place": "Neighborhood"
+    },
+    {
+      "date": "2018-09-05 00:00:00",
+      "category": "Food",
+      "subcategory": "snacks",
+      "note": "Chinese Bhel",
+      "amount": 30.0,
+      "direction": "Expense",
+      "mode": "Cash",
+      "place": "Current Residence"
+    },
+    {
+      "date": "2018-09-05 00:00:00",
+      "category": "Food",
+      "subcategory": "snacks",
+      "note": "Shev Puri",
+      "amount": 40.0,
+      "direction": "Expense",
+      "mode": "Cash",
+      "place": "Current Residence"
+    },
+    {
+      "date": "2018-09-05 00:00:00",
+      "category": "Food",
+      "subcategory": "snacks",
+      "note": "2 kachori",
+      "amount": 24.0,
+      "direction": "Expense",
+      "mode": "Cash",
+      "place": "Current Residence"
+    },
+    {
+      "date": "2018-09-05 00:00:00",
+      "category": "Food",
+      "subcategory": "Milk",
+      "note": "Half lit milk",
+      "amount": 36.0,
+      "direction": "Expense",
+      "mode": "Saving Bank account 1",
+      "place": "Current Residence"
+    },
+    {
+      "date": "2018-09-05 00:00:00",
+      "category": "Food",
+      "subcategory": "breakfast",
+      "note": "Bread",
+      "amount": 18.0,
+      "direction": "Expense",
+      "mode": "Saving Bank account 1",
+      "place": "Neighborhood"
+    },
+    {
+      "date": "2018-09-03 00:00:00",
+      "category": "Family",
+      "subcategory": "Pocket money",
+      "note": "",
+      "amount": 2000.0,
+      "direction": "Expense",
+      "mode": "Cash",
+      "place": "Archive"
+    },
+    {
+      "date": "2018-09-01 00:00:00",
+      "category": "Public Provident Fund",
+      "subcategory": "",
+      "note": "",
+      "amount": 12500.0,
+      "direction": "Transfer-Out",
+      "mode": "Saving Bank account 1",
+      "place": "Archive"
+    },
+    {
+      "date": "2018-09-01 00:00:00",
+      "category": "Saving Bank account 1",
+      "subcategory": "",
+      "note": "",
+      "amount": 2000.0,
+      "direction": "Transfer-Out",
+      "mode": "Equity Mutual Fund B",
+      "place": "Archive"
+    },
+    {
+      "date": "2018-08-31 15:12:20",
+      "category": "Family",
+      "subcategory": "Pocket money",
+      "note": "",
+      "amount": 1000.0,
+      "direction": "Expense",
+      "mode": "Cash",
+      "place": "Archive"
+    },
+    {
+      "date": "2018-08-31 15:12:20",
+      "category": "Gift",
+      "subcategory": "",
+      "note": "farewell contribution",
+      "amount": 118.0,
+      "direction": "Expense",
+      "mode": "Cash",
+      "place": "Archive"
+    },
+    {
+      "date": "2018-08-31 10:01:15",
+      "category": "Food",
+      "subcategory": "Dinner",
+      "note": "Domino's Pizza",
+      "amount": 510.85,
+      "direction": "Expense",
+      "mode": "Credit Card",
+      "place": "Neighborhood"
+    },
+    {
+      "date": "2018-08-31 09:27:28",
+      "category": "Salary",
+      "subcategory": "",
+      "note": "From workplace",
+      "amount": 70255.0,
+      "direction": "Income",
+      "mode": "Saving Bank account 1",
+      "place": "Workplace"
+    },
+    {
+      "date": "2018-08-31 09:26:17",
+      "category": "Food",
+      "subcategory": "Milk",
+      "note": "Half lit milk",
+      "amount": 36.0,
+      "direction": "Expense",
+      "mode": "Cash",
+      "place": "Current Residence"
+    },
+    {
+      "date": "2018-08-30 21:10:24",
+      "category": "Food",
+      "subcategory": "Sweets",
+      "note": "Warna Srikhand pav kg",
+      "amount": 78.0,
+      "direction": "Expense",
+      "mode": "Cash",
+      "place": "Neighborhood"
+    }
+  ]
+}
